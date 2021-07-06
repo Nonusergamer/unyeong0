@@ -1,0 +1,7 @@
+package com.example.demo; //package 이름
+
+import ...
+@SpringBootApplication
+public class HelloApplication {
+   
+   public static void main(String args[])
